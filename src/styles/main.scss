@@ -6,25 +6,30 @@
 }
 
 #root {
-  text-align: center;
-  background-image: url('../images/giphy.gif');
-  background-repeat: no-repeat;
-  background-position: bottom;
+  // text-align: center;
+  // background-image: url('../images/giphy.gif');
+  // background-repeat: no-repeat;
+  // background-position: bottom;
 }
 
 h1 {
-
+  // background-color: #16e7ce
 }
 
 main {
-//  background-image: url('../images/giphy.gif');
+  //  background-image: url('../images/giphy.gif');
 }
 
 .container {
   // display: flex;
   // justify-content: space-between;
+  text-align: center;
+  background-image: url('../images/giphy.gif');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 40vh;
+  box-shadow: 10px;
 }
 
 .buttons {
-
 }

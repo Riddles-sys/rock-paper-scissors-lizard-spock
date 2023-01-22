@@ -66,11 +66,11 @@ const App = () => {
   // ! JSK
   return (
     <>
-      <div>
-        <h1>Rock Paper Scissors Lizard Spock</h1>
-      </div>
+      <div></div>
       <main>
         <div className="container">
+          <h1>Rock Paper Scissors Lizard Spock</h1>
+
           <div className="game">
             {/* <h2>Number of Games: {numPlays}</h2> */}
             {/* Button clicked function updates the player choice using the setPlayer choice and creates a new value*/}
