@@ -1,6 +1,8 @@
 ![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
 
-# React Rock Paper Scissors - SOLO 2 hours
+# React Rock Paper Scissors Lizard Spock - SOLO 2 hours
+
+Deployed Link: https://rspls-game.netlify.app/
 
 Re-create a simple Rock Paper Scissors implementation in React.
 
