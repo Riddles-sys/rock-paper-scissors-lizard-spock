@@ -8,8 +8,10 @@
 h1 {
 }
 
-main {
-  //  background-image: url('../images/giphy.gif');
+.title {
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .container {
@@ -21,4 +23,5 @@ main {
 }
 
 .buttons {
+  margin: 5px;
 }

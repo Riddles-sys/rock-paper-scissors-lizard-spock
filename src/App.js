@@ -66,10 +66,10 @@ const App = () => {
   // ! JSK
   return (
     <>
-      <div>
-        <h1>Rock Paper Scissors Lizard Spock</h1>
-      </div>
       <main>
+        <div>
+          <h1 className="title">Rock Paper Scissors Lizard Spock</h1>
+        </div>
         <div className="container">
           <div className="game">
             {/* <h2>Number of Games: {numPlays}</h2> */}
