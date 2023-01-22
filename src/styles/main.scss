@@ -5,26 +5,20 @@
   font-family: 'Trispace', sans-serif;
 }
 
-#root {
+h1 {
+}
+
+main {
+  //  background-image: url('../images/giphy.gif');
+}
+
+.container {
   text-align: center;
   background-image: url('../images/giphy.gif');
   background-repeat: no-repeat;
   background-position: bottom;
-}
-
-h1 {
-
-}
-
-main {
-//  background-image: url('../images/giphy.gif');
-}
-
-.container {
-  // display: flex;
-  // justify-content: space-between;
+  height: 40vh;
 }
 
 .buttons {
-
 }
